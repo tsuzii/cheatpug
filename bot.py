@@ -1,39 +1,25 @@
-import tokens
+import config
 import logging
 import openai
 import asyncio
-
+from keybords.inline import subscription_keyboard, keyboard
 from aiogram import Bot, Dispatcher, types
-from aiogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
-
-CHANNEL_USERNAME="***REMOVED***"
-
-client = openai.OpenAI(api_key=tokens.DEEPSEEK_TOKEN,
-                       base_url="https://api.deepseek.com")
+from aiogram.types import Message
 
 
-bot = Bot(token=tokens.TELEGRAM_BOT_TOKEN)
+client = openai.OpenAI(api_key=config.DEEPSEEK_TOKEN,
+                       base_url=config.URL_DEEPSEEK)
+
+
+bot = Bot(token=config.TELEGRAM_BOT_TOKEN)
 dp = Dispatcher()
 last_messages = {}
-
-keyboard = InlineKeyboardMarkup(inline_keyboard=[
-    [InlineKeyboardButton(text="Первая кнопка", callback_data="btn1")],
-    [InlineKeyboardButton(text="Вторая кнопка", callback_data="btn2")],
-    [InlineKeyboardButton(text="DEEPSEEK", callback_data="deepseek")]
-])
-
-subscription_keyboard = InlineKeyboardMarkup(inline_keyboard=[
-    [InlineKeyboardButton(text="Подписаться на канал",
-                          url=f"https://t.me/{CHANNEL_USERNAME}")],
-    [InlineKeyboardButton(text="Проверить подписку",
-                          callback_data="check_subscription")]
-])
 
 
 async def check_subscription(user_id: int) -> bool:
     """Проверяет подписку пользователя на канал."""
     try:
-        member = await bot.get_chat_member(f"@{CHANNEL_USERNAME}", user_id)
+        member = await bot.get_chat_member(f"@{config.CHANNEL_USERNAME}", user_id)
 
         return member.status in ["member", "administrator", "creator"]
     except Exception as e:
