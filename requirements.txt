@@ -1,0 +1,7 @@
+aiogram
+requests
+telethon
+telebot
+fastapi
+uvicorn
+python-dotenv
