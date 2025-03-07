@@ -1,1 +1,1 @@
-# cheatpug
+Телеграмм бот CheatPug

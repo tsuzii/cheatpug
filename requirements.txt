@@ -5,3 +5,4 @@ telebot
 fastapi
 uvicorn
 python-dotenv
+openai

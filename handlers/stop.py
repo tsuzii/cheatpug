@@ -2,8 +2,8 @@ from aiogram import Router
 from aiogram.filters import Command
 from aiogram.types import Message
 from services.utils import delete_previous_message
-from config import last_messages, user_states
-from keyboards import KEYBOARD
+from config import user_states, last_messages
+
 
 router = Router()
 
@@ -12,6 +12,6 @@ router = Router()
 async def stop_message(message: Message):
     user_id = message.from_user.id
     await delete_previous_message(user_id)
-
-    # Сброс состояния пользователя
     user_states[user_id] = True
+    sent_message = await message.answer("Ожидайте остановки процесса.")
+    last_messages[user_id] = sent_message.message_id

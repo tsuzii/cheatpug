@@ -1,0 +1,270 @@
+2025-03-07 18:16:15,883 - INFO - Бот запускается...
+2025-03-07 18:16:16,078 - INFO - Start polling
+2025-03-07 18:16:16,133 - INFO - Run polling for bot @cheatpug_bot id=7278584500 - 'CheatPug'
+2025-03-07 18:16:32,878 - INFO - Update id=24821659 is handled. Duration 304 ms by bot id=7278584500
+2025-03-07 18:16:59,026 - INFO - Бот запускается...
+2025-03-07 18:16:59,188 - INFO - Start polling
+2025-03-07 18:16:59,239 - INFO - Run polling for bot @cheatpug_bot id=7278584500 - 'CheatPug'
+2025-03-07 18:17:10,217 - INFO - Update id=24821660 is handled. Duration 310 ms by bot id=7278584500
+2025-03-07 18:17:12,590 - INFO - Update id=24821661 is handled. Duration 60 ms by bot id=7278584500
+2025-03-07 18:17:15,430 - INFO - Update id=24821662 is handled. Duration 236 ms by bot id=7278584500
+2025-03-07 18:17:17,316 - INFO - Update id=24821663 is handled. Duration 375 ms by bot id=7278584500
+2025-03-07 18:17:18,996 - INFO - Update id=24821664 is handled. Duration 345 ms by bot id=7278584500
+2025-03-07 18:17:20,117 - INFO - Update id=24821665 is handled. Duration 179 ms by bot id=7278584500
+2025-03-07 18:17:24,447 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 18:17:36,092 - INFO - Update id=24821666 is handled. Duration 12605 ms by bot id=7278584500
+2025-03-07 18:17:41,479 - INFO - Update id=24821667 is handled. Duration 307 ms by bot id=7278584500
+2025-03-07 18:18:03,678 - INFO - Update id=24821668 is handled. Duration 559 ms by bot id=7278584500
+2025-03-07 18:18:27,020 - INFO - Бот запускается...
+2025-03-07 18:18:27,236 - INFO - Start polling
+2025-03-07 18:18:27,383 - INFO - Run polling for bot @cheatpug_bot id=7278584500 - 'CheatPug'
+2025-03-07 18:23:44,454 - INFO - Бот запускается...
+2025-03-07 18:23:44,661 - INFO - Start polling
+2025-03-07 18:23:44,724 - INFO - Run polling for bot @cheatpug_bot id=7278584500 - 'CheatPug'
+2025-03-07 18:23:57,892 - INFO - Update id=24821672 is handled. Duration 365 ms by bot id=7278584500
+2025-03-07 18:24:00,563 - INFO - Update id=24821673 is handled. Duration 173 ms by bot id=7278584500
+2025-03-07 18:24:10,300 - INFO - Update id=24821674 is handled. Duration 67 ms by bot id=7278584500
+2025-03-07 18:24:15,200 - INFO - Update id=24821675 is handled. Duration 299 ms by bot id=7278584500
+2025-03-07 18:24:17,615 - INFO - Update id=24821676 is handled. Duration 332 ms by bot id=7278584500
+2025-03-07 18:24:21,575 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 18:24:34,679 - INFO - Update id=24821677 is handled. Duration 13929 ms by bot id=7278584500
+2025-03-07 18:24:36,789 - INFO - Update id=24821678 is handled. Duration 249 ms by bot id=7278584500
+2025-03-07 18:24:38,196 - INFO - Update id=24821679 is handled. Duration 222 ms by bot id=7278584500
+2025-03-07 18:24:50,299 - INFO - Update id=24821680 is handled. Duration 142 ms by bot id=7278584500
+2025-03-07 18:26:06,992 - INFO - Update id=24821681 is handled. Duration 227 ms by bot id=7278584500
+2025-03-07 18:28:04,319 - INFO - Бот запускается...
+2025-03-07 18:28:04,498 - INFO - Start polling
+2025-03-07 18:28:04,548 - INFO - Run polling for bot @cheatpug_bot id=7278584500 - 'CheatPug'
+2025-03-07 18:28:10,877 - INFO - Update id=24821682 is handled. Duration 208 ms by bot id=7278584500
+2025-03-07 18:28:13,111 - INFO - Update id=24821683 is handled. Duration 196 ms by bot id=7278584500
+2025-03-07 18:28:17,610 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 18:28:26,795 - INFO - Update id=24821684 is handled. Duration 9843 ms by bot id=7278584500
+2025-03-07 18:28:28,378 - INFO - Update id=24821685 is handled. Duration 188 ms by bot id=7278584500
+2025-03-07 18:28:29,565 - INFO - Update id=24821686 is handled. Duration 103 ms by bot id=7278584500
+2025-03-07 18:28:45,498 - INFO - Update id=24821687 is handled. Duration 5136 ms by bot id=7278584500
+2025-03-07 18:29:27,438 - INFO - Update id=24821688 is handled. Duration 5113 ms by bot id=7278584500
+2025-03-07 18:30:19,777 - INFO - Бот запускается...
+2025-03-07 18:30:19,968 - INFO - Start polling
+2025-03-07 18:30:20,015 - INFO - Run polling for bot @cheatpug_bot id=7278584500 - 'CheatPug'
+2025-03-07 18:30:21,457 - INFO - Update id=24821689 is handled. Duration 376 ms by bot id=7278584500
+2025-03-07 18:30:22,835 - INFO - Update id=24821690 is handled. Duration 104 ms by bot id=7278584500
+2025-03-07 18:30:24,165 - INFO - Update id=24821691 is handled. Duration 213 ms by bot id=7278584500
+2025-03-07 18:30:25,698 - INFO - Update id=24821692 is handled. Duration 197 ms by bot id=7278584500
+2025-03-07 18:30:29,250 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 18:30:42,869 - INFO - Update id=24821693 is handled. Duration 14385 ms by bot id=7278584500
+2025-03-07 18:30:47,374 - INFO - Update id=24821694 is handled. Duration 234 ms by bot id=7278584500
+2025-03-07 18:30:48,468 - INFO - Update id=24821695 is handled. Duration 137 ms by bot id=7278584500
+2025-03-07 18:30:59,967 - INFO - Update id=24821696 is handled. Duration 132 ms by bot id=7278584500
+2025-03-07 18:31:37,992 - INFO - Бот запускается...
+2025-03-07 18:31:38,167 - INFO - Start polling
+2025-03-07 18:31:38,229 - INFO - Run polling for bot @cheatpug_bot id=7278584500 - 'CheatPug'
+2025-03-07 18:31:39,456 - INFO - Update id=24821697 is handled. Duration 307 ms by bot id=7278584500
+2025-03-07 18:31:40,767 - INFO - Update id=24821698 is handled. Duration 251 ms by bot id=7278584500
+2025-03-07 18:31:43,460 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 18:31:50,976 - INFO - Update id=24821699 is handled. Duration 8326 ms by bot id=7278584500
+2025-03-07 18:31:52,645 - INFO - Update id=24821700 is handled. Duration 257 ms by bot id=7278584500
+2025-03-07 18:31:54,062 - INFO - Update id=24821701 is handled. Duration 159 ms by bot id=7278584500
+2025-03-07 18:31:57,055 - INFO - Update id=24821702 is handled. Duration 182 ms by bot id=7278584500
+2025-03-07 18:32:23,837 - INFO - Update id=24821703 is handled. Duration 249 ms by bot id=7278584500
+2025-03-07 18:32:25,437 - INFO - Update id=24821704 is handled. Duration 301 ms by bot id=7278584500
+2025-03-07 18:32:30,049 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 18:32:45,675 - INFO - Update id=24821705 is handled. Duration 16532 ms by bot id=7278584500
+2025-03-07 18:32:48,310 - INFO - Update id=24821706 is handled. Duration 292 ms by bot id=7278584500
+2025-03-07 18:32:50,327 - INFO - Update id=24821707 is handled. Duration 204 ms by bot id=7278584500
+2025-03-07 18:33:01,785 - INFO - Update id=24821708 is handled. Duration 398 ms by bot id=7278584500
+2025-03-07 18:33:16,679 - INFO - Update id=24821709 is handled. Duration 137 ms by bot id=7278584500
+2025-03-07 18:33:18,331 - INFO - Update id=24821710 is handled. Duration 151 ms by bot id=7278584500
+2025-03-07 18:40:04,709 - INFO - Бот запускается...
+2025-03-07 18:40:04,874 - INFO - Start polling
+2025-03-07 18:40:04,917 - INFO - Run polling for bot @cheatpug_bot id=7278584500 - 'CheatPug'
+2025-03-07 18:40:11,077 - INFO - Update id=24821711 is handled. Duration 268 ms by bot id=7278584500
+2025-03-07 18:40:14,115 - INFO - Update id=24821712 is handled. Duration 188 ms by bot id=7278584500
+2025-03-07 18:40:21,367 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 18:40:40,243 - INFO - Update id=24821713 is handled. Duration 19865 ms by bot id=7278584500
+2025-03-07 18:40:44,262 - INFO - Update id=24821714 is handled. Duration 236 ms by bot id=7278584500
+2025-03-07 18:40:45,378 - INFO - Update id=24821715 is handled. Duration 115 ms by bot id=7278584500
+2025-03-07 18:40:56,356 - INFO - Update id=24821716 is handled. Duration 134 ms by bot id=7278584500
+2025-03-07 18:43:52,935 - INFO - Update id=24821717 is handled. Duration 230 ms by bot id=7278584500
+2025-03-07 18:44:49,893 - INFO - Бот запускается...
+2025-03-07 18:44:50,056 - INFO - Start polling
+2025-03-07 18:44:50,120 - INFO - Run polling for bot @cheatpug_bot id=7278584500 - 'CheatPug'
+2025-03-07 18:44:59,874 - INFO - Update id=24821718 is handled. Duration 358 ms by bot id=7278584500
+2025-03-07 18:45:09,954 - INFO - Update id=24821719 is handled. Duration 154 ms by bot id=7278584500
+2025-03-07 18:45:37,331 - INFO - Update id=24821720 is handled. Duration 141 ms by bot id=7278584500
+2025-03-07 18:47:38,377 - INFO - Update id=24821721 is handled. Duration 183 ms by bot id=7278584500
+2025-03-07 18:47:41,755 - INFO - Update id=24821722 is handled. Duration 309 ms by bot id=7278584500
+2025-03-07 18:47:43,277 - INFO - Update id=24821723 is handled. Duration 143 ms by bot id=7278584500
+2025-03-07 18:48:48,138 - INFO - Бот запускается...
+2025-03-07 18:48:48,366 - INFO - Start polling
+2025-03-07 18:48:48,473 - INFO - Run polling for bot @cheatpug_bot id=7278584500 - 'CheatPug'
+2025-03-07 18:48:49,923 - INFO - Update id=24821724 is not handled. Duration 0 ms by bot id=7278584500
+2025-03-07 18:48:49,923 - ERROR - Cause exception while process update id=24821724 by bot id=7278584500
+TypeError: unhashable type: 'dict'
+Traceback (most recent call last):
+  File "/Users/alexandertsuzanovsky/Desktop/CheatPug/myenv/lib/python3.13/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexandertsuzanovsky/Desktop/CheatPug/myenv/lib/python3.13/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/alexandertsuzanovsky/Desktop/CheatPug/myenv/lib/python3.13/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexandertsuzanovsky/Desktop/CheatPug/myenv/lib/python3.13/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexandertsuzanovsky/Desktop/CheatPug/myenv/lib/python3.13/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexandertsuzanovsky/Desktop/CheatPug/myenv/lib/python3.13/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexandertsuzanovsky/Desktop/CheatPug/myenv/lib/python3.13/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/alexandertsuzanovsky/Desktop/CheatPug/myenv/lib/python3.13/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexandertsuzanovsky/Desktop/CheatPug/myenv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexandertsuzanovsky/Desktop/CheatPug/myenv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/alexandertsuzanovsky/Desktop/CheatPug/myenv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexandertsuzanovsky/Desktop/CheatPug/myenv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexandertsuzanovsky/Desktop/CheatPug/myenv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/alexandertsuzanovsky/Desktop/CheatPug/myenv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexandertsuzanovsky/Desktop/CheatPug/myenv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexandertsuzanovsky/Desktop/CheatPug/myenv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/alexandertsuzanovsky/Desktop/CheatPug/myenv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexandertsuzanovsky/Desktop/CheatPug/myenv/lib/python3.13/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexandertsuzanovsky/Desktop/CheatPug/myenv/lib/python3.13/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/alexandertsuzanovsky/Desktop/CheatPug/handlers/start.py", line 15, in start_message
+    await delete_previous_message(last_messages)
+  File "/Users/alexandertsuzanovsky/Desktop/CheatPug/services/utils.py", line 8, in delete_previous_message
+    if user_id in last_messages:
+       ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: unhashable type: 'dict'
+2025-03-07 18:49:38,782 - INFO - Бот запускается...
+2025-03-07 18:49:38,977 - INFO - Start polling
+2025-03-07 18:49:39,034 - INFO - Run polling for bot @cheatpug_bot id=7278584500 - 'CheatPug'
+2025-03-07 18:49:40,486 - INFO - Update id=24821725 is handled. Duration 301 ms by bot id=7278584500
+2025-03-07 18:49:42,223 - INFO - Update id=24821726 is handled. Duration 207 ms by bot id=7278584500
+2025-03-07 18:49:44,832 - INFO - Update id=24821727 is handled. Duration 168 ms by bot id=7278584500
+2025-03-07 18:50:40,491 - INFO - Update id=24821728 is handled. Duration 451 ms by bot id=7278584500
+2025-03-07 18:50:47,022 - INFO - Update id=24821729 is handled. Duration 228 ms by bot id=7278584500
+2025-03-07 18:50:50,811 - INFO - Update id=24821730 is handled. Duration 210 ms by bot id=7278584500
+2025-03-07 18:50:54,765 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 18:51:09,294 - INFO - Update id=24821731 is handled. Duration 15298 ms by bot id=7278584500
+2025-03-07 18:51:46,184 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 18:51:55,555 - INFO - Update id=24821732 is handled. Duration 10079 ms by bot id=7278584500
+2025-03-07 18:52:38,417 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 18:52:52,764 - INFO - Update id=24821733 is handled. Duration 15283 ms by bot id=7278584500
+2025-03-07 18:53:35,774 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 422 Unprocessable Entity"
+2025-03-07 18:53:35,778 - ERROR - Ошибка запроса к DeepSeek: Failed to deserialize the JSON body into the target type: messages[0]: data did not match any variant of untagged enum ChatCompletionRequestContent at line 1 column 44
+2025-03-07 18:53:35,926 - INFO - Update id=24821734 is handled. Duration 783 ms by bot id=7278584500
+2025-03-07 18:53:39,438 - INFO - Update id=24821735 is handled. Duration 200 ms by bot id=7278584500
+2025-03-07 18:53:41,263 - INFO - Update id=24821736 is handled. Duration 216 ms by bot id=7278584500
+2025-03-07 18:55:19,797 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 18:56:05,048 - INFO - Update id=24821737 is handled. Duration 45992 ms by bot id=7278584500
+2025-03-07 18:57:55,806 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 18:58:09,238 - INFO - Update id=24821738 is handled. Duration 14261 ms by bot id=7278584500
+2025-03-07 19:45:20,978 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-03-07 19:45:20,980 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7278584500)
+2025-03-07 19:45:32,188 - INFO - Connection established (tryings = 1, bot id = 7278584500)
+2025-03-07 20:28:32,655 - INFO - Update id=24821739 is handled. Duration 390 ms by bot id=7278584500
+2025-03-07 20:28:38,260 - INFO - Update id=24821740 is handled. Duration 209 ms by bot id=7278584500
+2025-03-07 20:28:39,427 - INFO - Update id=24821741 is handled. Duration 189 ms by bot id=7278584500
+2025-03-07 20:28:41,488 - INFO - Update id=24821742 is handled. Duration 140 ms by bot id=7278584500
+2025-03-07 20:28:42,903 - INFO - Update id=24821743 is handled. Duration 326 ms by bot id=7278584500
+2025-03-07 20:30:18,419 - INFO - Update id=24821744 is handled. Duration 265 ms by bot id=7278584500
+2025-03-07 20:30:22,232 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 20:30:22,786 - INFO - Update id=24821746 is handled. Duration 151 ms by bot id=7278584500
+2025-03-07 20:30:30,169 - INFO - Update id=24821745 is handled. Duration 8729 ms by bot id=7278584500
+2025-03-07 20:30:37,089 - INFO - Update id=24821747 is handled. Duration 350 ms by bot id=7278584500
+2025-03-07 20:51:13,096 - INFO - Update id=24821748 is handled. Duration 443 ms by bot id=7278584500
+2025-03-07 20:51:18,084 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 20:51:24,795 - INFO - Update id=24821749 is handled. Duration 8559 ms by bot id=7278584500
+2025-03-07 20:51:41,231 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 20:52:24,215 - INFO - Update id=24821750 is handled. Duration 43718 ms by bot id=7278584500
+2025-03-07 21:22:12,884 - INFO - Бот запускается...
+2025-03-07 21:22:13,098 - INFO - Start polling
+2025-03-07 21:22:13,156 - INFO - Run polling for bot @cheatpug_bot id=7278584500 - 'CheatPug'
+2025-03-07 21:22:23,437 - INFO - Update id=24821751 is handled. Duration 240 ms by bot id=7278584500
+2025-03-07 21:22:25,015 - INFO - Update id=24821752 is handled. Duration 214 ms by bot id=7278584500
+2025-03-07 21:22:28,997 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 21:22:37,764 - INFO - Update id=24821753 is handled. Duration 9998 ms by bot id=7278584500
+2025-03-07 21:22:47,324 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 21:22:56,334 - INFO - Update id=24821754 is handled. Duration 9733 ms by bot id=7278584500
+2025-03-07 21:23:02,357 - INFO - Update id=24821755 is handled. Duration 168 ms by bot id=7278584500
+2025-03-07 21:23:04,342 - INFO - Update id=24821756 is handled. Duration 200 ms by bot id=7278584500
+2025-03-07 21:23:14,470 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 21:23:48,077 - INFO - Update id=24821757 is handled. Duration 34282 ms by bot id=7278584500
+2025-03-07 21:24:36,855 - INFO - Update id=24821758 is handled. Duration 246 ms by bot id=7278584500
+2025-03-07 21:24:38,975 - INFO - Update id=24821759 is handled. Duration 287 ms by bot id=7278584500
+2025-03-07 21:24:42,577 - INFO - Update id=24821760 is handled. Duration 195 ms by bot id=7278584500
+2025-03-07 21:24:44,194 - INFO - Update id=24821761 is handled. Duration 234 ms by bot id=7278584500
+2025-03-07 21:24:45,875 - INFO - Update id=24821762 is handled. Duration 189 ms by bot id=7278584500
+2025-03-07 21:26:48,467 - INFO - Update id=24821763 is handled. Duration 174 ms by bot id=7278584500
+2025-03-07 21:27:04,561 - INFO - Update id=24821764 is handled. Duration 189 ms by bot id=7278584500
+2025-03-07 21:27:18,549 - INFO - Update id=24821765 is handled. Duration 159 ms by bot id=7278584500
+2025-03-07 21:27:19,913 - INFO - Update id=24821766 is handled. Duration 151 ms by bot id=7278584500
+2025-03-07 21:27:21,678 - INFO - Update id=24821767 is handled. Duration 233 ms by bot id=7278584500
+2025-03-07 21:27:25,313 - INFO - Update id=24821768 is handled. Duration 472 ms by bot id=7278584500
+2025-03-07 21:30:14,762 - INFO - Update id=24821769 is handled. Duration 242 ms by bot id=7278584500
+2025-03-07 21:30:18,818 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 21:30:25,540 - INFO - Update id=24821770 is handled. Duration 8307 ms by bot id=7278584500
+2025-03-07 21:30:50,561 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 21:31:33,501 - INFO - Update id=24821771 is handled. Duration 43718 ms by bot id=7278584500
+2025-03-07 21:34:17,628 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 21:34:55,753 - INFO - Update id=24821772 is handled. Duration 39059 ms by bot id=7278584500
+2025-03-07 21:37:51,904 - INFO - Бот запускается...
+2025-03-07 21:37:52,097 - INFO - Start polling
+2025-03-07 21:37:52,153 - INFO - Run polling for bot @cheatpug_bot id=7278584500 - 'CheatPug'
+2025-03-07 21:37:56,705 - INFO - Update id=24821773 is handled. Duration 319 ms by bot id=7278584500
+2025-03-07 21:37:58,100 - INFO - Update id=24821774 is handled. Duration 217 ms by bot id=7278584500
+2025-03-07 21:38:02,852 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 21:38:09,094 - INFO - Update id=24821775 is handled. Duration 7324 ms by bot id=7278584500
+2025-03-07 21:38:16,736 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 21:38:24,108 - INFO - Update id=24821776 is handled. Duration 8100 ms by bot id=7278584500
+2025-03-07 21:38:26,720 - INFO - Бот запускается...
+2025-03-07 21:38:26,885 - INFO - Start polling
+2025-03-07 21:38:26,942 - INFO - Run polling for bot @cheatpug_bot id=7278584500 - 'CheatPug'
+2025-03-07 21:38:28,412 - INFO - Update id=24821777 is handled. Duration 405 ms by bot id=7278584500
+2025-03-07 21:38:30,292 - INFO - Update id=24821778 is handled. Duration 197 ms by bot id=7278584500
+2025-03-07 21:38:34,421 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 21:38:41,337 - INFO - Update id=24821779 is handled. Duration 7840 ms by bot id=7278584500
