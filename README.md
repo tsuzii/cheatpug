@@ -1,1 +1,1 @@
-Телеграмм бот CheatPug
+Telegram bot - CheatPug
