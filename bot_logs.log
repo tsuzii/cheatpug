@@ -668,3 +668,15 @@ TypeError: unhashable type: 'dict'
 2025-03-09 10:43:07,468 - INFO - Update id=24822233 is handled. Duration 207 ms by bot id=7278584500
 2025-03-09 10:43:07,468 - INFO - Update id=24822228 is handled. Duration 213 ms by bot id=7278584500
 2025-03-09 10:43:11,254 - INFO - Update id=24822235 is handled. Duration 273 ms by bot id=7278584500
+2025-03-11 00:10:17,933 - INFO - Бот запускается...
+2025-03-11 00:10:18,150 - INFO - Start polling
+2025-03-11 00:10:18,252 - INFO - Run polling for bot @cheatpug_bot id=7278584500 - 'CheatPug'
+2025-03-11 00:10:23,654 - INFO - Update id=24822321 is handled. Duration 270 ms by bot id=7278584500
+2025-03-11 00:10:26,993 - INFO - Update id=24822322 is handled. Duration 244 ms by bot id=7278584500
+2025-03-11 00:10:29,775 - INFO - Update id=24822324 is handled. Duration 86 ms by bot id=7278584500
+2025-03-11 00:10:29,969 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-03-11 00:10:53,919 - INFO - Update id=24822325 is handled. Duration 178 ms by bot id=7278584500
+2025-03-11 00:10:53,923 - INFO - Update id=24822326 is handled. Duration 135 ms by bot id=7278584500
+2025-03-11 00:10:53,949 - INFO - Update id=24822328 is handled. Duration 158 ms by bot id=7278584500
+2025-03-11 00:10:53,969 - INFO - Update id=24822327 is handled. Duration 179 ms by bot id=7278584500
+2025-03-11 00:10:54,017 - INFO - Update id=24822323 is handled. Duration 25118 ms by bot id=7278584500

@@ -3,3 +3,4 @@ myenv/
 *.pyc
 *.pyo
 *.pyd
+*.log

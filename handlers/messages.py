@@ -1,4 +1,3 @@
-import asyncio
 import random
 from aiogram import Router
 from aiogram.types import Message
@@ -7,8 +6,6 @@ from services.utils import delete_previous_message
 from services.subscription import check_subscription
 from keyboards import BACK_BUTTON, KEYBOARD, SUB_KEYBOARD
 from config import user_states, user_texts, last_messages, rand_answers
-from services.return_text import send_saved_text
-from bot_istance import bot_tg as bot
 
 router = Router()
 processing_users = set()  # Хранит пользователей, чьи сообщения игнорируются

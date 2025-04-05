@@ -3,11 +3,14 @@ import logging
 from bot_config import dp, shutdown
 from bot_istance import bot_tg
 
-# Настройка логирования
+# Настройка логирования: логируем и в файл, и в консоль
 logging.basicConfig(
-    filename="bot_logs.log",  # Файл для логов
     level=logging.INFO,  # Уровень логирования (DEBUG, INFO, WARNING, ERROR)
     format="%(asctime)s - %(levelname)s - %(message)s",
+    handlers=[
+        logging.StreamHandler(),  # Вывод логов в консоль (stdout)
+        logging.FileHandler("bot_logs.log")  # Запись логов в файл
+    ],
 )
 
 
