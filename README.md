@@ -1,4 +1,4 @@
-# 🐾 CheatPug Bot
+# CheatPug Bot
 
 A Telegram bot with DeepSeek AI support. Users can run the bot locally via Docker in just a few commands.
 
@@ -9,14 +9,14 @@ A Telegram bot with DeepSeek AI support. Users can run the bot locally via Docke
 **Windows (PowerShell / CMD):**
 
 ```powershell
-git clone https://github.com/YOUR_USERNAME/cheatpug.git
+git clone https://github.com/tsuzii/cheatpug.git
 cd cheatpug
 ```
 
 **macOS / Linux (Terminal):**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cheatpug.git
+git clone https://github.com/tsuzii/cheatpug.git
 cd cheatpug
 ```
 
