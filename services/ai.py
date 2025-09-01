@@ -1,11 +1,14 @@
+import os
 import asyncio
 import openai
 import logging
-import config
+from dotenv import load_dotenv
+
+load_dotenv()
 
 client = openai.OpenAI(
-    api_key=config.DEEPSEEK_TOKEN,
-    base_url=config.URL_DEEPSEEK
+    api_key=os.getenv("DEEPSEEK_TOKEN"),
+    base_url=os.getenv("URL_DEEPSEEK")
 )
 
 

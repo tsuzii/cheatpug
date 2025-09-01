@@ -1,4 +1,6 @@
-import config
+import os
+from dotenv import load_dotenv
 from aiogram import Bot
 
-bot_tg = Bot(token=config.TELEGRAM_BOT_TOKEN)
+load_dotenv()
+bot_tg = Bot(token=os.getenv("TELEGRAM_BOT_TOKEN"))

@@ -1,5 +1,8 @@
-import config
+import os
+from dotenv import load_dotenv
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
+
+load_dotenv()
 
 KEYBOARD = InlineKeyboardMarkup(inline_keyboard=[
     [InlineKeyboardButton(text="ChatGPT", callback_data="deep_seek")],
@@ -11,12 +14,6 @@ KEYBOARD = InlineKeyboardMarkup(inline_keyboard=[
                           callback_data="show_saved_text")]
 ])
 
-SUB_KEYBOARD = InlineKeyboardMarkup(inline_keyboard=[
-    [InlineKeyboardButton(text="Подписаться на канал",
-                          url=f"https://t.me/{config.CHANNEL_USERNAME}")],
-    [InlineKeyboardButton(text="Проверить подписку",
-                          callback_data="check_subscription")]
-])
 
 BACK_BUTTON = InlineKeyboardMarkup(
     inline_keyboard=[[InlineKeyboardButton(text="Назад в меню", callback_data="back")]])

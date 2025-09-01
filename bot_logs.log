@@ -680,3 +680,50 @@ TypeError: unhashable type: 'dict'
 2025-03-11 00:10:53,949 - INFO - Update id=24822328 is handled. Duration 158 ms by bot id=7278584500
 2025-03-11 00:10:53,969 - INFO - Update id=24822327 is handled. Duration 179 ms by bot id=7278584500
 2025-03-11 00:10:54,017 - INFO - Update id=24822323 is handled. Duration 25118 ms by bot id=7278584500
+2025-09-01 13:26:09,347 - INFO - Бот запускается...
+2025-09-01 13:26:09,802 - INFO - Start polling
+2025-09-01 13:26:09,873 - INFO - Run polling for bot @cheatpug_bot id=7278584500 - 'CheatPug'
+2025-09-01 13:26:15,259 - WARNING - Received SIGINT signal
+2025-09-01 13:26:15,265 - INFO - Polling stopped for bot @cheatpug_bot id=7278584500 - 'CheatPug'
+2025-09-01 13:26:15,266 - INFO - Polling stopped
+2025-09-01 13:26:15,518 - INFO - Бот завершил работу.
+2025-09-01 13:40:34,471 - INFO - Бот запускается...
+2025-09-01 13:40:34,808 - INFO - Start polling
+2025-09-01 13:40:34,876 - INFO - Run polling for bot @cheatpug_bot id=7278584500 - 'CheatPug'
+2025-09-01 13:40:42,805 - INFO - Update id=24822768 is handled. Duration 336 ms by bot id=7278584500
+2025-09-01 13:40:53,560 - INFO - Update id=24822769 is handled. Duration 320 ms by bot id=7278584500
+2025-09-01 13:40:55,635 - INFO - Update id=24822770 is handled. Duration 273 ms by bot id=7278584500
+2025-09-01 13:41:55,128 - INFO - Update id=24822771 is handled. Duration 230 ms by bot id=7278584500
+2025-09-01 13:41:57,400 - WARNING - Received SIGINT signal
+2025-09-01 13:41:57,406 - INFO - Polling stopped for bot @cheatpug_bot id=7278584500 - 'CheatPug'
+2025-09-01 13:41:57,407 - INFO - Polling stopped
+2025-09-01 13:41:57,666 - INFO - Бот завершил работу.
+2025-09-01 13:42:01,126 - INFO - Бот запускается...
+2025-09-01 13:42:01,344 - INFO - Start polling
+2025-09-01 13:42:01,416 - INFO - Run polling for bot @cheatpug_bot id=7278584500 - 'CheatPug'
+2025-09-01 13:42:07,524 - INFO - Update id=24822773 is handled. Duration 423 ms by bot id=7278584500
+2025-09-01 13:42:12,515 - INFO - Update id=24822774 is handled. Duration 330 ms by bot id=7278584500
+2025-09-01 13:42:20,936 - INFO - HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-01 13:42:32,770 - INFO - Update id=24822775 is handled. Duration 13631 ms by bot id=7278584500
+2025-09-01 13:43:28,475 - WARNING - Received SIGINT signal
+2025-09-01 13:43:28,481 - INFO - Polling stopped for bot @cheatpug_bot id=7278584500 - 'CheatPug'
+2025-09-01 13:43:28,481 - INFO - Polling stopped
+2025-09-01 13:43:28,743 - INFO - Бот завершил работу.
+2025-09-01 13:48:25,998 - INFO - Бот запускается...
+2025-09-01 13:48:26,278 - INFO - Start polling
+2025-09-01 13:48:26,344 - INFO - Run polling for bot @cheatpug_bot id=7278584500 - 'CheatPug'
+2025-09-01 13:48:29,013 - INFO - Update id=24822776 is handled. Duration 322 ms by bot id=7278584500
+2025-09-01 13:48:31,550 - INFO - Update id=24822777 is handled. Duration 320 ms by bot id=7278584500
+2025-09-01 13:48:34,374 - INFO - Update id=24822778 is handled. Duration 253 ms by bot id=7278584500
+2025-09-01 13:48:36,103 - INFO - Update id=24822779 is handled. Duration 160 ms by bot id=7278584500
+2025-09-01 13:48:37,198 - INFO - Update id=24822780 is handled. Duration 181 ms by bot id=7278584500
+2025-09-01 13:48:38,414 - INFO - Update id=24822781 is handled. Duration 219 ms by bot id=7278584500
+2025-09-01 13:48:39,674 - INFO - Update id=24822782 is handled. Duration 234 ms by bot id=7278584500
+2025-09-01 13:48:40,687 - INFO - Update id=24822783 is handled. Duration 202 ms by bot id=7278584500
+2025-09-01 13:48:41,880 - INFO - Update id=24822784 is handled. Duration 283 ms by bot id=7278584500
+2025-09-01 13:48:43,029 - INFO - Update id=24822785 is handled. Duration 330 ms by bot id=7278584500
+2025-09-01 13:48:44,099 - INFO - Update id=24822786 is handled. Duration 200 ms by bot id=7278584500
+2025-09-01 13:50:24,378 - WARNING - Received SIGINT signal
+2025-09-01 13:50:24,384 - INFO - Polling stopped for bot @cheatpug_bot id=7278584500 - 'CheatPug'
+2025-09-01 13:50:24,384 - INFO - Polling stopped
+2025-09-01 13:50:24,642 - INFO - Бот завершил работу.

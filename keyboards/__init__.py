@@ -1,1 +1,1 @@
-from .inline import SUB_KEYBOARD, KEYBOARD, BACK_BUTTON
+from .inline import KEYBOARD, BACK_BUTTON

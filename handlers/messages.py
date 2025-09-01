@@ -3,8 +3,7 @@ from aiogram import Router
 from aiogram.types import Message
 from services.ai import get_ai_response
 from services.utils import delete_previous_message
-from services.subscription import check_subscription
-from keyboards import BACK_BUTTON, KEYBOARD, SUB_KEYBOARD
+from keyboards import BACK_BUTTON, KEYBOARD
 from config import user_states, user_texts, last_messages, rand_answers
 
 router = Router()
@@ -25,12 +24,6 @@ async def handle_all_messages(message: Message):
 
     processing_users.add(user_id)  # Блокируем новые сообщения от пользователя
     sent_message = None
-
-    if not await check_subscription(user_id):
-        sent_message = await message.answer("Сначала подпишитесь на канал:", reply_markup=SUB_KEYBOARD)
-        last_messages[user_id] = sent_message.message_id
-        processing_users.discard(user_id)  # Разрешаем снова писать
-        return
 
     await delete_previous_message(user_id)
 

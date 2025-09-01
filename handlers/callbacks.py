@@ -3,8 +3,7 @@ from aiogram import Router
 from bot_istance import bot_tg as bot
 from aiogram.types import CallbackQuery
 from services.utils import delete_previous_message
-from services.subscription import check_subscription
-from keyboards import SUB_KEYBOARD, KEYBOARD, BACK_BUTTON
+from keyboards import KEYBOARD, BACK_BUTTON
 from config import last_messages, user_states, sent_messages
 from services.return_text import send_saved_text
 
@@ -16,19 +15,7 @@ async def handle_buttons(callback_query: CallbackQuery):
     user_id = callback_query.from_user.id
     sent_message = None
 
-    if not await check_subscription(user_id):
-        await delete_previous_message(user_id)
-        sent_message = await callback_query.message.answer("Сначала подпишитесь на канал:", reply_markup=SUB_KEYBOARD)
-        last_messages[user_id] = sent_message.message_id
-        return
-
     await delete_previous_message(user_id)
-
-    if callback_query.data == "check_subscription":
-        if await check_subscription(user_id):
-            sent_message = await callback_query.message.answer("Подписка подтверждена! Выберите действие:", reply_markup=KEYBOARD)
-        else:
-            sent_message = await callback_query.message.answer("Вы не подписаны! Подпишитесь и попробуйте снова:", reply_markup=SUB_KEYBOARD)
 
     if callback_query.data == "back":
         if user_id in sent_messages:
